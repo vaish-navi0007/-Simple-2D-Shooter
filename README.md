@@ -11,7 +11,7 @@
 - Easy-to-understand, modular Python code for learning and customization
 
 ## Screenshots
-
+<img width="603" height="736" alt="Image" src="https://github.com/user-attachments/assets/c746fbef-c492-4c3d-ab7a-7800d1ac9383" />
 
 
 ## Installation
@@ -22,5 +22,4 @@
 ```bash
 pip install pygame
 
-##screenshot
-<img width="603" height="736" alt="Image" src="https://github.com/user-attachments/assets/c746fbef-c492-4c3d-ab7a-7800d1ac9383" />
+
